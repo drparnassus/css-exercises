@@ -1,0 +1,20 @@
+/* styles.css */
+
+.font24 {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 87%, 76%);
+    font-weight: 700;
+}
+
+#two {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.odds {
+    background-color: hsl(350, 52%, 75%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}    
