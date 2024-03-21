@@ -1,0 +1,17 @@
+/* styles.css */
+
+.buttons,
+.cool-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.buttons {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+.cool-button {
+    background-color: yellow;
+}
